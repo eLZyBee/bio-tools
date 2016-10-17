@@ -1,6 +1,6 @@
 # Bio-tools
 
-This repo will hold tools I build for my wife to aid in her bioinformatics work. There are an all likelihood (absolute certainty) better programs out there for conducting this work.
+This repo will hold tools I build for my wife to aid in her bioinformatics work. There are in all likelihood (absolute certainty) better programs out there for conducting this work.
 
 ## DNA Aligner
 
